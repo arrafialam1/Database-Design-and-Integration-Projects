@@ -21,7 +21,7 @@ This repository showcases projects demonstrating expertise in designing, impleme
   - SQL (PostgreSQL), Python, psycopg2  
 
 - **Key Files**:  
-  - `create_tables.sql`: SQL script to create tables and insert data.  
+  - `Queries.sql`: SQL script to create tables and insert data.  
   - `python_postgresql.py`: Python script to connect to the database and execute queries.  
 
 ---
