@@ -51,4 +51,11 @@ This repository showcases projects demonstrating expertise in designing, impleme
 - Data Insertion and Transformation  
 - Querying and Aggregations  
 - Integration of Python with SQL and NoSQL Databases  
-- Advanced Database Operations (Joins, Lookups)  
+- Advanced Database Operations (Joins, Lookups)
+
+## Tools & Technologies Used 
+
+- Programming Language (Python) 
+- Libraries (psycopg2, PyMongo) 
+- Databases (PostgreSQL, MongoDB) 
+- Development Environment (PyCharm)
