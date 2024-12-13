@@ -1,6 +1,6 @@
 # Database Design and Integration Projects
 
-This repository showcases projects demonstrating expertise in designing, implementing, and managing relational and non-relational databases. The projects include real-world scenarios to highlight skills in database modeling, data insertion, querying, and integration using SQL (PostgreSQL) and MongoDB.
+The projects include real-world scenarios to highlight skills in database modeling, data insertion, querying, and integration using SQL (PostgreSQL) and MongoDB.
 
 ---
 
